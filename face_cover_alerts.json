@@ -1,0 +1,142 @@
+[
+    {
+        "start_time": "2025-07-13 20:14:34",
+        "frames": [
+            {
+                "timestamp": "2025-07-13 20:14:34.745804",
+                "confidence": 0.5047619047619046,
+                "filename": "captured_frames/alert_20250713_201434_720340.jpg"
+            },
+            {
+                "timestamp": "2025-07-13 20:14:34.784863",
+                "confidence": 0.5047619047619046,
+                "filename": "captured_frames/alert_20250713_201434_778912.jpg"
+            },
+            {
+                "timestamp": "2025-07-13 20:14:34.825754",
+                "confidence": 0.5017142857142856,
+                "filename": "captured_frames/alert_20250713_201434_823761.jpg"
+            }
+        ],
+        "max_confidence": 0.5047619047619046
+    },
+    {
+        "start_time": "2025-07-13 20:14:35",
+        "frames": [
+            {
+                "timestamp": "2025-07-13 20:14:35.857348",
+                "confidence": 0.5017142857142857,
+                "filename": "captured_frames/alert_20250713_201435_853359.jpg"
+            },
+            {
+                "timestamp": "2025-07-13 20:14:35.896293",
+                "confidence": 0.5062857142857143,
+                "filename": "captured_frames/alert_20250713_201435_892305.jpg"
+            },
+            {
+                "timestamp": "2025-07-13 20:14:35.935192",
+                "confidence": 0.5078095238095238,
+                "filename": "captured_frames/alert_20250713_201435_930204.jpg"
+            },
+            {
+                "timestamp": "2025-07-13 20:14:36.006054",
+                "confidence": 0.5139047619047619,
+                "filename": "captured_frames/alert_20250713_201436_003066.jpg"
+            },
+            {
+                "timestamp": "2025-07-13 20:14:36.077064",
+                "confidence": 0.513904761904762,
+                "filename": "captured_frames/alert_20250713_201436_074073.jpg"
+            }
+        ],
+        "max_confidence": 0.513904761904762
+    },
+    {
+        "start_time": "2025-07-13 20:14:36",
+        "frames": [
+            {
+                "timestamp": "2025-07-13 20:14:36.115961",
+                "confidence": 0.5123809523809524,
+                "filename": "captured_frames/alert_20250713_201436_111973.jpg"
+            },
+            {
+                "timestamp": "2025-07-13 20:14:36.153858",
+                "confidence": 0.5093333333333333,
+                "filename": "captured_frames/alert_20250713_201436_150874.jpg"
+            },
+            {
+                "timestamp": "2025-07-13 20:14:36.199740",
+                "confidence": 0.5108571428571429,
+                "filename": "captured_frames/alert_20250713_201436_195750.jpg"
+            },
+            {
+                "timestamp": "2025-07-13 20:14:36.237724",
+                "confidence": 0.5123809523809525,
+                "filename": "captured_frames/alert_20250713_201436_234653.jpg"
+            },
+            {
+                "timestamp": "2025-07-13 20:14:36.276613",
+                "confidence": 0.5108571428571429,
+                "filename": "captured_frames/alert_20250713_201436_273623.jpg"
+            }
+        ],
+        "max_confidence": 0.5123809523809525
+    },
+    {
+        "start_time": "2025-07-13 20:14:36",
+        "frames": [
+            {
+                "timestamp": "2025-07-13 20:14:36.313567",
+                "confidence": 0.5123809523809525,
+                "filename": "captured_frames/alert_20250713_201436_310582.jpg"
+            },
+            {
+                "timestamp": "2025-07-13 20:14:36.356196",
+                "confidence": 0.5093333333333334,
+                "filename": "captured_frames/alert_20250713_201436_353460.jpg"
+            },
+            {
+                "timestamp": "2025-07-13 20:14:36.411294",
+                "confidence": 0.5062857142857143,
+                "filename": "captured_frames/alert_20250713_201436_407635.jpg"
+            },
+            {
+                "timestamp": "2025-07-13 20:14:36.453995",
+                "confidence": 0.5032380952380953,
+                "filename": "captured_frames/alert_20250713_201436_445028.jpg"
+            }
+        ],
+        "max_confidence": 0.5123809523809525
+    },
+    {
+        "start_time": "2025-07-13 20:14:37",
+        "frames": [
+            {
+                "timestamp": "2025-07-13 20:14:37.040383",
+                "confidence": 0.5032380952380952,
+                "filename": "captured_frames/alert_20250713_201437_037275.jpg"
+            },
+            {
+                "timestamp": "2025-07-13 20:14:37.087262",
+                "confidence": 0.5093333333333333,
+                "filename": "captured_frames/alert_20250713_201437_083268.jpg"
+            },
+            {
+                "timestamp": "2025-07-13 20:14:37.150091",
+                "confidence": 0.5154285714285715,
+                "filename": "captured_frames/alert_20250713_201437_144112.jpg"
+            },
+            {
+                "timestamp": "2025-07-13 20:14:37.192975",
+                "confidence": 0.52,
+                "filename": "captured_frames/alert_20250713_201437_189984.jpg"
+            },
+            {
+                "timestamp": "2025-07-13 20:14:37.226885",
+                "confidence": 0.5276190476190477,
+                "filename": "captured_frames/alert_20250713_201437_223896.jpg"
+            }
+        ],
+        "max_confidence": 0.5276190476190477
+    }
+]
